@@ -1,5 +1,7 @@
 # Data Analysis of Netflix
 
+<img src="https://github.com/designisO/Data-Analysis-of-Netflix-/blob/main/img/download.png"/>
+
 ## Overview
 
 In this project the client wanted to review data of Netflix. The client had many questions concerning data answered. The use of seaborn and matplotlib was applied to get heatmaps and plots the data requested. 
